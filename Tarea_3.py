@@ -1,7 +1,7 @@
 ## Braian Betancourt
 ## Programa que cuenta las consonantes de una cadena
 
-cadena = input("Introduce una palabra, ojo! esta tiene que ser en minusculas: ") ## Pedir la cadena al usuario
+cadena = input("Introduce una Cadena ") ## Pedir la cadena al usuario
 
 ## Busco la primera aparicion de cada consonante de la cadena y guardo su posicion en buscar_letra
 buscar_letraB = cadena.find("b")
